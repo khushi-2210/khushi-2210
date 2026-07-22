@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 2nd year CSE student. I'm very much enthusiastic about web development and DSA. I love connecting with people and I'm an eager learner.
+I'm a 3rd year CSE student. I'm very much enthusiastic about web development and DSA. I love connecting with people and I'm an eager learner.
 
 
 ## 🌐 Socials:
